@@ -22,7 +22,7 @@ Earlier projects include cloud services for search, chatbot dialog building, and
 
 While a picture may be worth a thousand words, the image's alt text should have fewer! 
 
-The following content effectively incorporates images to illustrate a concept or explain a process, and does so in an accessible way.
+The following samples effectively incorporate images to illustrate concepts or explain processes, and do so in an accessible way.
 
 - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow)
 - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api)
@@ -30,9 +30,9 @@ The following content effectively incorporates images to illustrate a concept or
 
 ### Helping users make decisions
 
-The why is more important than the how! Documentation adds the context that customers need to understand before they make key decisions as part of a task. 
+The *why* is more important than the *how*. Documentation adds the information that customers need to understand before they can make good decisions as part of a task.
 
-These examples show ways to describe and compare available options.
+These examples describe and compare available options.
 
 - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html)
 - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html)
@@ -41,9 +41,9 @@ These examples show ways to describe and compare available options.
 
 Why write it twice? 
 
-The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets for SaaS and on-premises users:
+The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets.
 
-- SaaS: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
+- Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
 
 ### Using generative AI to search the docs
