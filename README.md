@@ -1,10 +1,9 @@
 # Portfolio of technical documentation
 
-Find samples of product help that is written for users with a wide range of goals and experience levels.
+Find samples of product help for users with various goals and experience levels.
 
 - [User help](#product-user-help)
 - [Developer help](#developer-help)
-- [API reference](#api-reference)
 - [Administrator help](#administrator-help)
 
 ## Product user help
@@ -27,16 +26,18 @@ A picture is worth a thousand words, although the image's alt text should be few
 - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api)
 - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html)
 
-### Content that helps users make decisions
+### Helping users make decisions
 
-The why is more important than the how! Documentation is where you can provide more context about why a customer should complete a task. These examples show ways to describe and compare options for a customer to consider before making a key decision.
+The why is more important than the how! 
+
+Documentation is where you can provide more context about why a customer should complete a task. These examples show ways to describe and compare options for a customer to consider before making a key decision.
 
 - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html)
 - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html)
 
 ### Single-sourcing user content
 
-The following links show content that is single-sourced in Markdown and published for both SaaS and on-premises users:
+The following links show content that is single-sourced in Markdown with Microsoft Visual Studio Code and published for both SaaS and on-premises users:
 
 - SaaS: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
@@ -47,7 +48,7 @@ The following links show content that is single-sourced in Markdown and publishe
 - [IBM watsonx.ai text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - [IBM watsonx.ai chatting about documents and images (low-code)](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-prompt-data.html)
 
-## API reference
+### API reference
 
 The API reference for the Watson Discovery search service is sourced from a JSON file that is created according to the OpenAPI specification.
 
@@ -59,4 +60,3 @@ The following content is written in DITA with Oxygen XML Author
 
 - IBM watsonx.ai on-premises installation: [Installing IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-install.html)
 - IBM watsonx.ai on-premises administration: [Administering IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-admin.html)
-
