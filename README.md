@@ -17,6 +17,10 @@ Earlier projects include cloud services for search tasks and building chatbot di
 - [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index){:target="_blank"}
 
+| Practice | Samples |
+|----------|---------|
+| Incorporate images in conceptusl information to illustrate concepts and explain processes | - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}<br/> - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}<br/> - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"} |
+
 ### Adding visual interest to conceptual information
 
 The following samples incorporate images to illustrate concepts and explain processes.
