@@ -8,13 +8,13 @@ Find samples of help content for software users with various goals and experienc
 
 ## Product user help
 
-I write content that helps customers use foundation models and generative AI to improve day-to-day business operations.
+I write content that helps customers build apps that use foundation models and generative AI to improve their day-to-day business operations.
 
 IBM watson.xai: [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html)
 
 Earlier projects include cloud services for search, chatbot dialog building, and natural lanuage processing (NLP) tasks.
 
-- [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data)
+- [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index)
 - [IBM Watson Knowledge Studio](https://cloud.ibm.com/docs/watson-knowledge-studio?topic=watson-knowledge-studio-wks_overview_full)
 
