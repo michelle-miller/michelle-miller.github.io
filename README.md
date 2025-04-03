@@ -20,34 +20,10 @@ Earlier projects include cloud services for search tasks and building chatbot di
 | Practice | Samples |
 |----------|---------|
 | Incorporate images in conceptusl information to illustrate concepts and explain processes | - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}<br/> - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}<br/> - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"} |
+| Describe and compare available options to help customers make good choices. | - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"} |
+| Single-source user content when possible to save time and resources. | - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
+| Write content that can be consumed by LLMs | IBM watsonx.ai offers an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern to answer questions with factual content from the product documentation.<br/> See [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 
-### Adding visual interest to conceptual information
-
-The following samples incorporate images to illustrate concepts and explain processes.
-
-- [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}
-- [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}
-- [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"}
-
-### Helping users make decisions
-
-*Why* is more important than *how*. These examples show content that describes and compares available options to help customers can make better decisions.
-
-- [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html){:target="_blank"}
-- [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"}
-
-### Single-sourcing user content
-
-Reuse content to save time and resources. The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets.
-
-- Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}
-- On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"}
-
-### Using generative AI to search the docs
-
-IBM watsonx.ai offers an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern to answer questions with factual content from the product documentation.
-
-See [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}.
 
 ## Developer help
 
