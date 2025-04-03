@@ -17,8 +17,8 @@ Earlier projects include cloud services for search tasks and building chatbot di
 - [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index){:target="_blank"}
 
-| Practice | Samples |
-|----------|---------|
+| Best practice | Samples |
+|---------------|---------|
 | Incorporate images in conceptual information to illustrate concepts and explain processes. | - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}<br/> - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}<br/> - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"} |
 | Describe and compare available options to help customers make good choices. | - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following topics are single-sourced in Markdown and published in two separate doc sets:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
@@ -38,7 +38,7 @@ This content helps low-code users implement a simple RAG pattern and chat about 
 
 ### API reference
 
-The API reference for the Watson Discovery search service is sourced from a JSON file that is created according to the OpenAPI specification.
+The API reference is sourced from a JSON file that conforms to the OpenAPI specification.
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
