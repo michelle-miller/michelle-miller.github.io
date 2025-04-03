@@ -8,11 +8,11 @@ Find samples of help content for software users with various goals and experienc
 
 ## Product user help
 
-I write content that helps customers use foundation models and generative AI to improve their day-to-day business workflows.
+I write content that helps customers use foundation models and generative AI to improve day-to-day business operations.
 
 IBM watson.xai: [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html)
 
-Earlier projects include cloud services for search, chatbot dialog building, and NLP tasks.
+Earlier projects include cloud services for search, chatbot dialog building, and natural lanuage processing (NLP) tasks.
 
 - [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data)
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index)
@@ -20,9 +20,9 @@ Earlier projects include cloud services for search, chatbot dialog building, and
 
 ### Using visual elements in conceptual information
 
-A picture is worth a thousand words, although the image's alt text should have fewer! 
+While a picture may be worth a thousand words, the image's alt text should have fewer! 
 
-The following content effectively incorporates images to illustrate a concept or explain a process.
+The following content effectively incorporates images to illustrate a concept or explain a process, and does so in an accessible way.
 
 - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow)
 - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api)
@@ -30,9 +30,9 @@ The following content effectively incorporates images to illustrate a concept or
 
 ### Helping users make decisions
 
-The why is more important than the how! Documentation adds the context that customers need to understand before they make a key choice as part of a task. 
+The why is more important than the how! Documentation adds the context that customers need to understand before they make key decisions as part of a task. 
 
-These examples show ways to describe and compare the available options.
+These examples show ways to describe and compare available options.
 
 - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html)
 - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html)
@@ -41,14 +41,14 @@ These examples show ways to describe and compare the available options.
 
 Why write it twice? 
 
-The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sites for SaaS and on-premises users:
+The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets for SaaS and on-premises users:
 
 - SaaS: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
 
 ### Using generative AI to search the docs
 
-IBM watsonx.ai has an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern to answer questions submitted in natural language with factual content from the product documentation.
+IBM watsonx.ai offers an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern to answer questions with factual content from the product documentation.
 
 See [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx).
 
