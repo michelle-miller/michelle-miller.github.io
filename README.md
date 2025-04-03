@@ -20,7 +20,9 @@ Earlier projects include cloud services for search, chatbot dialog building, and
 
 ### Using visual elements in conceptual information
 
-A picture is worth a thousand words, although the image's alt text should have fewer! The following links show content that effectively incorporates images to illustrate a concept or explain a process.
+A picture is worth a thousand words, although the image's alt text should have fewer! 
+
+The following content effectively incorporates images to illustrate a concept or explain a process.
 
 - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow)
 - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api)
@@ -28,21 +30,25 @@ A picture is worth a thousand words, although the image's alt text should have f
 
 ### Helping users make decisions
 
-The why is more important than the how! Documentation is where you can provide more context about why a customer should complete a task. These examples show ways to describe and compare options for a customer to consider before making a key decision.
+The why is more important than the how! Documentation adds the context that customers need to understand before they make a key choice as part of a task. 
+
+These examples show ways to describe and compare the available options.
 
 - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html)
 - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html)
 
 ### Single-sourcing user content
 
-The following links show content that is single-sourced in Markdown with Microsoft Visual Studio Code and published to two separate documentation sites for SaaS and on-premises users:
+Why write it twice? 
+
+The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sites for SaaS and on-premises users:
 
 - SaaS: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
 
 ### Using generative AI to search the docs
 
-IBM watsonx.ai has an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern answer questions submitted in natural language with factual content from the product documentation.
+IBM watsonx.ai has an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern to answer questions submitted in natural language with factual content from the product documentation.
 
 See [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx).
 
@@ -67,7 +73,7 @@ More guidance for developers is available from the product documentatation. For 
 
 ## Administrator help
 
-The following content is written in DITA with Oxygen XML Author
+The following content is written in DITA with Oxygen XML Author.
 
 - IBM watsonx.ai on-premises installation: [Installing IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-install.html)
 - IBM watsonx.ai on-premises administration: [Administering IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-admin.html)
