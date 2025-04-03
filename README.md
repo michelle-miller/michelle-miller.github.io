@@ -1,6 +1,6 @@
-# Technical documentation samples
+# Technical documentation
 
-Find samples of product help for software users with various goals and experience levels.
+Find samples of help content for software users with various goals and experience levels.
 
 - [User help](#product-user-help)
 - [Developer help](#developer-help)
@@ -8,7 +8,7 @@ Find samples of product help for software users with various goals and experienc
 
 ## Product user help
 
-My current focus is on documentation that helps customers use foundation models and generative AI to improve their day-to-day business workflows.
+I write content that helps customers use foundation models and generative AI to improve their day-to-day business workflows.
 
 IBM watson.xai: [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html)
 
@@ -40,14 +40,20 @@ The following links show content that is single-sourced in Markdown with Microso
 - SaaS: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
 
+### Using generative AI to search the docs
+
+IBM watsonx.ai has an LLM-based search app that uses a retrieval-augmented generation (RAG) pattern answer questions submitted in natural language with factual content from the product documentation.
+
+See [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx).
+
 ## Developer help
 
-The following guidance augments the watsonx.ai API reference:
+The following guidance augments the watsonx.ai API reference documentation:
 
 - [IBM watsonx.ai time series forecasting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html)
 - [IBM watsonx.ai text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-text-extraction.html)
 
-The following guidance helps low-code users implement a simple RAG pattern and chat about images:
+This content helps low-code users implement a simple RAG pattern and chat about images:
 
 - [IBM watsonx.ai chatting about documents and images](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-prompt-data.html)
 
