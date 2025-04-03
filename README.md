@@ -8,7 +8,7 @@ Find samples of help content for software users with various goals and experienc
 
 ## Product user help
 
-I write content that helps customers build apps that use foundation models and generative AI to improve their day-to-day business operations.
+I write content to help customers use foundation models and generative AI to improve their day-to-day business operations.
 
 IBM watson.xai: [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html)
 
@@ -20,9 +20,7 @@ Earlier projects include cloud services for search, chatbot dialog building, and
 
 ### Using visual elements in conceptual information
 
-While a picture may be worth a thousand words, the image's alt text should have fewer! 
-
-The following samples effectively incorporate images to illustrate concepts or explain processes, and do so in an accessible way.
+Show me, don't tell me. The following samples incorporate images to illustrate concepts and explain processes.
 
 - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow)
 - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api)
@@ -30,18 +28,14 @@ The following samples effectively incorporate images to illustrate concepts or e
 
 ### Helping users make decisions
 
-The *why* is more important than the *how*. Documentation adds the information that customers need to understand before they can make good decisions as part of a task.
-
-These examples describe and compare available options.
+*Why* is more important than *how*. These examples show content that describes and compares available options to help customers can make better decisions.
 
 - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html)
 - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html)
 
 ### Single-sourcing user content
 
-Why write it twice? 
-
-The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets.
+Reuse content to save time and resources. The following samples are single-sourced in Markdown with Microsoft Visual Studio Code and published in two separate documentation sets.
 
 - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html)
 - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html)
