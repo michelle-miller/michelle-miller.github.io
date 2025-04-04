@@ -1,6 +1,6 @@
 # Technical documentation
 
-Find samples of help content for software users with various goals and experience levels.
+Find samples of help content for software users with various roles and experience levels.
 
 - [User help](#product-user-help)
 - [Developer help](#developer-help)
@@ -15,7 +15,7 @@ See [Developing generative AI solutions with foundation models](https://www.ibm.
 | Best practice | Samples |
 |---------------|---------|
 | Incorporate images in conceptual information to illustrate concepts and explain processes. | - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}<br/> - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}<br/> - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"} |
-| Describe and compare available options to help customers make good choices. | - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"} |
+| Describe and compare available options to help customers make good choices. | - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | Try the IBM watsonx.ai LLM-based search app: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
@@ -46,7 +46,7 @@ More guidance for developers is available from the product documentatation. For 
 
 ## Administrator help
 
-The following content is written in DITA with Oxygen XML Author.
+The following content helps administrators install and manage the on-premises deployment of the IBM watsonx.ai service. The content is written in DITA with Oxygen XML Author.
 
-- IBM watsonx.ai on-premises installation: [Installing IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-install.html){:target="_blank"}
-- IBM watsonx.ai on-premises administration: [Administering IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-admin.html){:target="_blank"}
+- [Installing IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-install.html){:target="_blank"}
+- [Administering IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-admin.html){:target="_blank"}
