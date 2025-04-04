@@ -8,12 +8,12 @@ Find samples of help content for software users with various roles and experienc
 
 ## Product user help
 
-I write content to help customers use foundation models and generative AI to improve their day-to-day business operations with IBM watson.xai.
+I write content to help customers use foundation models in IBM watson.xai to improve their day-to-day business operations with generative AI.
 
 See [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
 
-| Best practice | Samples |
-|---------------|---------|
+| Writing approach | Examples |
+|------------------|----------|
 | Incorporate images in conceptual information to illustrate concepts and explain processes. | - [Low-rank adaptation (LoRA) fine-tuning workflow](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods-lora.html#lora-workflow){:target="_blank"}<br/> - [Rerank passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}<br/> - [Model parameters for prompting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-parameters.html){:target="_blank"} |
 | Describe and compare available options to help customers make good choices. | - [Choosing a foundation model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-tuning-methods.html){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
