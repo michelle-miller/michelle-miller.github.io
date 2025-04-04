@@ -20,7 +20,7 @@ See [Developing generative AI solutions with foundation models](https://www.ibm.
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | Try the IBM watsonx.ai LLM-based search app: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
 
-Earlier projects include cloud services for search tasks and building chatbot dialogs.
+Earlier projects include product documentation for cloud services that help customers with search tasks and building chatbot dialogs.
 
 - [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index){:target="_blank"}
@@ -38,7 +38,7 @@ This content helps low-code users implement a simple RAG pattern and chat about 
 
 ### API reference
 
-The API reference is sourced from a JSON file that conforms to the OpenAPI specification.
+This API reference is sourced from a JSON file that conforms to the OpenAPI specification.
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
