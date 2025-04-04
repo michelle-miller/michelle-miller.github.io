@@ -1,1 +1,1 @@
-* about.md
+* [Technical documentation](about.html)
