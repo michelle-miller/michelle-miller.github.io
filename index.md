@@ -30,7 +30,7 @@ Earlier projects include product documentation for cloud services that help cust
 The following guidance augments the watsonx.ai API reference documentation:
 
 - [IBM watsonx.ai time series forecasting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"}
-- [IBM watsonx.ai text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-text-extraction.html){:target="_blank"}
+- [IBM watsonx.ai text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-text-extraction.html#api){:target="_blank"}
 
 This content helps low-code users implement a simple RAG pattern and chat about images:
 
