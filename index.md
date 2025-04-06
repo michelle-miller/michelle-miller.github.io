@@ -29,12 +29,16 @@ Earlier projects include product documentation for cloud services that help cust
 
 The following guidance augments the watsonx.ai API reference documentation:
 
-- [IBM watsonx.ai time series forecasting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"}
-- [IBM watsonx.ai text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-text-extraction.html#api){:target="_blank"}
+- [IBM watsonx.ai: Time series forecasting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"}
+- [IBM watsonx.ai: Text extraction](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-text-extraction.html#api){:target="_blank"}
 
 This content helps low-code users implement a simple RAG pattern and chat about images:
 
-- [IBM watsonx.ai chatting about documents and images](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-prompt-data.html){:target="_blank"}
+- [IBM watsonx.ai: Chatting about documents and images](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-prompt-data.html){:target="_blank"}
+
+These SpEL expression language descriptions and examples help chatbot builders implement more advanced logic in their dialog flows:
+
+- [IBM Watson Assistant: Expression language methods](https://cloud.ibm.com/docs/assistant?topic=assistant-dialog-methods){:target="_blank"}
 
 ### API reference
 
@@ -42,7 +46,7 @@ This API reference is sourced from a JSON file that conforms to the OpenAPI spec
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-More guidance for developers is available from the product documentatation. For example, [Query overview](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts){:target="_blank"}.
+Supplemental guidance for developers is available from the product documentatation. For example, [IBM Watson Discovery: Query overview](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts){:target="_blank"}.
 
 ## Administrator help
 
