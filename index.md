@@ -6,7 +6,7 @@ Find samples of help content for software users with various roles and experienc
 - [Developer help](#developer-help)
 - [Administrator help](#administrator-help)
 
-## Product user help
+## User help
 
 I write content that helps customers use foundation models in IBM watson.xai to improve their day-to-day business operations with generative AI.
 
@@ -42,7 +42,7 @@ These SpEL expression language descriptions and examples help chatbot builders i
 
 ### API reference
 
-This API reference is sourced from a JSON file that conforms to the OpenAPI specification.
+This API reference is sourced from a JSON file that conforms to the OpenAPI specification:
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
