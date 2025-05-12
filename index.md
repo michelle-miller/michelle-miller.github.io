@@ -29,12 +29,12 @@ Earlier projects include product documentation for cloud services that help cust
 
 The following guidance augments the watsonx.ai API reference documentation:
 
-- [IBM watsonx.ai: Time series forecasting](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"}
-- [IBM watsonx.ai: Reranking document passages](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"}
+- IBM watsonx.ai: Time series forecasting [online](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"} | [PDF](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
+- IBM watsonx.ai: Reranking document passages [online](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"} | [PDF](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
 
 This content helps low-code users implement a simple RAG pattern and chat about images:
 
-- [IBM watsonx.ai: Chatting about documents and images](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-prompt-data.html){:target="_blank"}
+- [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"}
 
 These SpEL expression language descriptions and examples help chatbot builders implement more advanced logic in their dialog flows:
 
