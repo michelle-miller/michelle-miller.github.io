@@ -29,8 +29,8 @@ Previous projects include product documentation for cloud services that help cus
 
 The following guidance augments the watsonx.ai API reference documentation:
 
-- IBM watsonx.ai: [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
-- IBM watsonx.ai: [Reranking document passages](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
+- [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
+- [Reranking document passages](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
 
 This content helps low-code users implement a simple RAG pattern and chat about images:
 
