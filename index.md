@@ -8,9 +8,9 @@ Find samples of help content for software users with various roles and experienc
 
 ## User help
 
-I write content that helps customers use foundation models in IBM watsonx.ai to improve their day-to-day business operations with generative AI.
+As a lead writer for the IBM watsonx.ai product, I created content that helped customers use foundation models in IBM watsonx.ai to improve their day-to-day business operations with generative AI.
 
-See [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
+The following table has links to content that was written by me and that illustrates various approaches for providing straight-forward, helpful information.
 
 | Writing approach | Examples |
 |------------------|----------|
@@ -20,7 +20,7 @@ See [Developing generative AI solutions with foundation models](https://www.ibm.
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | Try the IBM watsonx.ai LLM-based search app: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
 
-Earlier projects include product documentation for cloud services that help customers with search tasks and building chatbot dialogs.
+Previous projects include product documentation for cloud services that help customers with search tasks and building chatbot dialogs.
 
 - [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index){:target="_blank"}
@@ -29,8 +29,8 @@ Earlier projects include product documentation for cloud services that help cust
 
 The following guidance augments the watsonx.ai API reference documentation:
 
-- IBM watsonx.ai: Time series forecasting. View [online](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-time-series.html){:target="_blank"} or as [PDF](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}.
-- IBM watsonx.ai: Reranking document passages. View [online](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-api-rerank.html#api){:target="_blank"} or as [PDF](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}.
+- IBM watsonx.ai: [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
+- IBM watsonx.ai: [Reranking document passages](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
 
 This content helps low-code users implement a simple RAG pattern and chat about images:
 
