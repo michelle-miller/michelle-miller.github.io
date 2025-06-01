@@ -8,7 +8,7 @@ Find samples of help content for software users with various roles and experienc
 
 ## User help
 
-I write content that helps customers use foundation models in IBM watson.xai to improve their day-to-day business operations with generative AI.
+I write content that helps customers use foundation models in IBM watsonx.ai to improve their day-to-day business operations with generative AI.
 
 See [Developing generative AI solutions with foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
 
