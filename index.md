@@ -1,6 +1,6 @@
 # Technical documentation
 
-As a lead technical writer for IBM Data and AI and IBM Cloud software services, I created content that helped customers complete goals such as these:
+As a lead technical writer for IBM Data and AI and IBM Cloud software services, I created content that helps customers complete goals such as these:
 
 - Use foundation models in IBM watsonx.ai to improve day-to-day business operations with generative AI. See [IBM watsonx.ai](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
 - Analyze and visualize enterprise data. See [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-about){:target="_blank"}.
