@@ -50,7 +50,6 @@ Supplemental guidance for developers is available from the product documentatati
 
 ## Administrator help
 
-The following content helps administrators install and manage the on-premises deployment of the IBM watsonx.ai service. The content is written in DITA with Oxygen XML Author.
+The following content helps administrators install and manage the on-premises deployment of the IBM Watson Discovery service. The content is written in DITA with Oxygen XML Author.
 
-- [Installing IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-install.html){:target="_blank"}
-- [Administering IBM watsonx.ai](https://www.ibm.com/docs/SSNFH6_latest/svc-watsonxai/watsonxai-admin.html){:target="_blank"}
+- [Installing and administering IBM Watson Discovery in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
