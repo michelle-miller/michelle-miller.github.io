@@ -14,16 +14,16 @@ The following table has links to content that was written by me and that illustr
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images in conceptual information to illustrate concepts and explain processes. | - [Model parameters for prompting (PDF)](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - [Text embeddings overview (online)](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-embed-overview.html){:target="_blank"} |
+| Incorporate images in conceptual information to illustrate concepts and explain processes. | [Model parameters for prompting (PDF)](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery that I revised to be task-based:<br/> - [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf)<br/> - [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
-| Describe and compare available options to help customers make good choices. | - [Choosing a foundation model (online)](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-model-choose.html){:target="_blank"}<br/> - [Methods for tuning foundation models (PDF)](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
+| Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models (PDF)](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
-| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | Try the IBM watsonx.ai LLM-based search app: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
+| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I authored content such that it could be returned in the IBM watsonx.ai LLM-based search app and regularly reviewed results and user feedback to improve content findability.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
 
 Previous projects include product documentation for cloud services that help customers with search tasks and building chatbot dialogs.
 
-- [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data){:target="_blank"}
+- [IBM Watson Discovery](https://michelle-miller.github.io/samples/discovery-data-sample.pdf){:target="_blank"}
 - [IBM Watson Assistant](https://cloud.ibm.com/docs/assistant?topic=assistant-index){:target="_blank"}
 
 ## Developer help
