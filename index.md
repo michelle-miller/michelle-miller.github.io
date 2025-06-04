@@ -8,7 +8,7 @@ Find samples of help content for software users with various roles and experienc
 
 ## User help
 
-As a lead writer for various IBM Cloud services, I created content that helped customers complete goals such as these:
+As a lead writer for some of the IBM Data and AI and IBM Cloud services, I created content that helped customers complete goals such as these:
 
 - Use foundation models in IBM watsonx.ai to improve day-to-day business operations with generative AI. See [IBM watsonx.ai](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
 - Analyze and visualize enterprise data. See [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-about){:target="_blank"}.
@@ -16,12 +16,12 @@ As a lead writer for various IBM Cloud services, I created content that helped c
 
 The following table has links to content that was written by me and that illustrates various approaches for providing straight-forward, helpful information.
 
-Note: Most of the content is formatted as PDFs rather than online help pages so that I can illustrate *my* work and distinguish it from work that other writers are contributing to the current online help content.
+Note: Most of the content is shared as PDFs rather than links to online help pages so that I can illustrate *my* work and distinguish it from work that other writers are contributing to the current online help content.
 
 | Writing approach | Examples |
 |------------------|----------|
 | Incorporate images in conceptual information to illustrate concepts and explain processes. | [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} |
-| Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery that I revised to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
+| Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized content for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how content is used in the RAG pattern.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
