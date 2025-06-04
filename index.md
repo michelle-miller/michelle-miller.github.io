@@ -24,7 +24,7 @@ Note: Most of the content is shared as PDFs rather than links to online help pag
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
-| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized content for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how content is used in the RAG pattern.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
+| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized content for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how content performs.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
 
 ## Developer help
@@ -48,10 +48,10 @@ I created this API reference from a JSON file that conforms to the OpenAPI speci
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-I added supplemental guidance to the product documentatation to help developers use the API effectively. For example, [IBM Watson Discovery: Query overview](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts){:target="_blank"}.
+I added supplemental guidance to the product documentatation to help developers use the API effectively. For example, [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}.
 
 ## Administrator help
 
 The following content helps administrators install and manage the on-premises deployment of the IBM Watson Discovery service. The content was written in DITA with Oxygen XML Author.
 
-- [Installing and administering IBM Watson Discovery in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
+- [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
