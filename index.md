@@ -29,7 +29,7 @@ Note: Most of the content is shared as PDFs rather than links to online help pag
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images in conceptual information to illustrate concepts and explain processes. | [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} |
+| Incorporate images in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple RAG pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
@@ -38,18 +38,14 @@ Note: Most of the content is shared as PDFs rather than links to online help pag
 
 ## Developer help
 
-I created the following guidance to augment the watsonx.ai API reference documentation:
+I created the following guidance to augment the IBM watsonx.ai API reference documentation:
 
 - [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
 - [Reranking document passages](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
 
-This content helps low-code users implement a simple RAG pattern and chat about images:
+These Spring Expression Language (SpEL) descriptions and examples help chatbot builders implement more advanced logic in their IBM Watson Assistant dialog flows:
 
-- [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"}
-
-These SpEL expression language descriptions and examples help chatbot builders implement more advanced logic in their dialog flows:
-
-- [IBM Watson Assistant: Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
+- [Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
 
 ### API reference
 
@@ -61,6 +57,6 @@ I added supplemental guidance to the product documentatation to help developers 
 
 ## Administrator help
 
-The following content helps administrators install and manage the on-premises deployment of the IBM Watson Discovery service. The content was written in DITA with Oxygen XML Author.
+The following content helps administrators install and manage on-premises deployments of the IBM Watson Discovery service. The content was written in DITA with Oxygen XML Author.
 
 - [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
