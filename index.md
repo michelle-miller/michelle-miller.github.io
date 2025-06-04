@@ -3,8 +3,8 @@
 As a lead technical writer for IBM Data and AI and IBM Cloud software services, I created content that helps customers complete goals such as these:
 
 - Use foundation models in IBM watsonx.ai to improve day-to-day business operations with generative AI. See [IBM watsonx.ai](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-overview.html){:target="_blank"}.
-- Analyze and visualize enterprise data. See [IBM Watson Discovery](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-about){:target="_blank"}.
-- Build AI chatbots. See [IBM Watson Assistant](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-about){:target="_blank"}.
+- Analyze and visualize enterprise data. See [IBM Watson Discovery](https://michelle-miller.github.io/samples/discovery-data-sample.pdf){:target="_blank"}.
+- Build AI chatbots. See [IBM Watson Assistant](https://michelle-miller.github.io/samples/assistant-sample.pdf){:target="_blank"}.
 
 Find samples of help content for software users with various roles and experience levels.
 
