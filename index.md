@@ -15,10 +15,10 @@ Find samples of help content for software users with various roles and experienc
 
 ## User interface content
 
-| Tooltips for UI elements | ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png) |
-| Learn more links to implement a progressive disclosure model so users can get more information on their own terms. | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png) |
-| Working with a designer in Figma to author walk-through content for a new tool. | https://michelle-miller.github.io/samples/agent-lab-add-tools.png |
-| Language suggestions that serve the user workflow. | https://michelle-miller.github.io/samples/agent-lab-desc.png |
+| Tooltips | ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/>Keep helpful information in reach of users when possible. |
+| Learn more | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/>Implement a progressive disclosure model so that users can get more information on their own terms. |
+| UI Walkthroughs | ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png)<br/>A walkthrough is a great way for users to get familiar with a new tool. |
+| Collaboration with design | ![Comments for designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/>Language suggestions that serve the user workflow. |
 {: caption="UI content examples" caption-side="bottom"}
 
 ## User help
