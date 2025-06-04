@@ -48,7 +48,7 @@ I created this API reference from a JSON file that conforms to the OpenAPI speci
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-I added supplemental guidance to the product documentatation to help developers use the API effectively. For example, [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}.
+I added supplemental guidance to the product documentatation to help developers use the API effectively, such as [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}.
 
 ## Administrator help
 
