@@ -20,16 +20,16 @@ Note: Most of the content is formatted as PDFs rather than online help pages so 
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images in conceptual information to illustrate concepts and explain processes. | [Model parameters for prompting](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} |
+| Incorporate images in conceptual information to illustrate concepts and explain processes. | [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery that I revised to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
-| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized content for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed results and user feedback to improve the app.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
+| Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized content for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how content is used in the RAG pattern.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"}. |
 {: caption="Documentation best practices" caption-side="bottom"}
 
 ## Developer help
 
-The following guidance augments the watsonx.ai API reference documentation:
+I created the following guidance to augment the watsonx.ai API reference documentation:
 
 - [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
 - [Reranking document passages](https://michelle-miller.github.io/samples/wx-rerank-api-sample.pdf){:target="_blank"}
@@ -44,11 +44,11 @@ These SpEL expression language descriptions and examples help chatbot builders i
 
 ### API reference
 
-I authored this API reference as a JSON file that conforms to the OpenAPI specification:
+I created this API reference from a JSON file that conforms to the OpenAPI specification:
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-I added supplemental guidance for developers to the product documentatation. For example, [IBM Watson Discovery: Query overview](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts){:target="_blank"}.
+I added supplemental guidance to the product documentatation to help developers use the API effectively. For example, [IBM Watson Discovery: Query overview](https://cloud.ibm.com/docs/discovery-data?topic=discovery-data-query-concepts){:target="_blank"}.
 
 ## Administrator help
 
