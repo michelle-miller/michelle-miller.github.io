@@ -31,6 +31,7 @@ Note: The examples are shared as point-in-time PDFs rather than links to online 
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topic is single-sourced in Markdown and included in two different doc sets:<br/> - Software as a Service: [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"}<br/> - On premises: [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
+| Give users more than one way to digest information. | In this topic, which is sourced in Markdown, the same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} |
 
 ## Developer help
@@ -54,8 +55,4 @@ I added supplemental guidance to the product documentatation to help developers 
 
 ## Administrator help
 
-Here are a few examples of information that is designed for administrators:
-
-- Sourced in Markdown, this topic gives users two different ways to consume the content. The same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"}
-
-- This content was written in DITA with Oxygen XML Author:  [On-premises deployment of Watson Discovery: Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
+This content was written in DITA with Oxygen XML Author:  [On-premises deployment of Watson Discovery: Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
