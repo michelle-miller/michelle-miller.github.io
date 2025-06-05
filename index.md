@@ -8,20 +8,17 @@ As a lead technical writer for IBM Data and AI and IBM Cloud software services, 
 
 Find samples of help content for software users with various roles and experience levels.
 
-- [UI content](#user-interface-content)
-- [User help](#user-help)
-- [Developer help](#developer-help)
-- [Administrator help](#administrator-help)
+ **[UI content](#user-interface-content)**  |  **[User help](#user-help)** |  **[Developer help](#developer-help)**  |  **[Administrator help](#administrator-help)**
 
 ## User interface content
 
-| UI content type | Examples |
-|:----------------|----------|
-| Tooltips | ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/>Keep helpful information in reach whenever possible. |
-| *Learn more* links | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/>Implement a progressive disclosure model that lets users control when they get more information. In this case, *Learn more* goes to the [Foundation model parameters: decoding and stopping criteria](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} help topic. |
-| UI walkthroughs | ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/>Walkthroughs are a great way for users to get familiar with new tools. |
-| Collaboration in Figma | ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/>Team with UI designers to craft UI language that supports the task workflow. |
-{: caption="UI content examples" caption-side="bottom"}
+| UI content type examples |
+|:----------------|
+| Tooltips <br/> Keep helpful information in reach whenever possible.<br/> ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/> |
+| *Learn more* links <br/> Implement a progressive disclosure model that lets users control when they get more information. The *Learn more* link in this screenshot goes to the [Decoding and stopping criteria](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} help topic. <br/> ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/> |
+| UI walkthroughs <br/> Walkthroughs are a great way for users to get familiar with new tools. <br/> ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/> |
+| Collaboration in Figma <br/> Team with UI designers to craft UI language that supports the task workflow. <br/> ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/> |
+{: caption="UI content examples" caption-side="top"}
 
 ## User help
 
@@ -36,7 +33,7 @@ Note: Most of the content is shared as PDFs rather than links to online help pag
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} |
-{: caption="Documentation best practices" caption-side="bottom"}
+{: caption="Documentation best practices" caption-side="top"}
 
 ## Developer help
 
