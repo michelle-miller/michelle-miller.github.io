@@ -56,6 +56,6 @@ I added supplemental guidance to the product documentatation to help developers 
 
 Here are a few examples of information that is designed for administrators:
 
-- Sourced in markdown, this topic gives users two different ways to consume the content. The same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"}
+- Sourced in Markdown, this topic gives users two different ways to consume the content. The same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"}
 
 - This content was written in DITA with Oxygen XML Author:  [On-premises deployment of Watson Discovery: Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
