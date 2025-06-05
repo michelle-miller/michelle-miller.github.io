@@ -8,13 +8,15 @@ As a lead technical writer for IBM Data and AI and IBM Cloud software services, 
 
 Find samples of help content for software users with various roles and experience levels.
 
-- [UI content](user-interface-content)
+- [UI content](#user-interface-content)
 - [User help](#user-help)
 - [Developer help](#developer-help)
 - [Administrator help](#administrator-help)
 
 ## User interface content
 
+| UI content type | Examples |
+|:----------------|----------|
 | Tooltips | ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/>Keep helpful information in reach whenever possible. |
 | *Learn more* links | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/>Implement a progressive disclosure model that lets users control when they get more information. |
 | UI walkthroughs | ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/>Walkthroughs are a great way for users to get familiar with new tools. |
