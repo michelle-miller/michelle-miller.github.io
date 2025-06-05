@@ -27,11 +27,11 @@ Note: The examples are shared as point-in-time PDFs rather than links to online 
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images and diagrams in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust AI model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple retrieval-augmented generation (RAG) pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
+| Incorporate images and diagrams in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust AI model behavior: [IBM watsonx.ai: Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple retrieval-augmented generation (RAG) pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
-| Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
-| Single-source user content when possible to save time and resources. | The following online topic is single-sourced in Markdown and included in two different doc sets:<br/> - Software as a Service: [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"}<br/> - On premises: [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
-| Give users more than one way to digest information. | In this topic, which is sourced in Markdown, the same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} |
+| Describe and compare available options to help customers make good choices. | [IBM watsonx.ai: Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
+| Single-source user content when possible to save time and resources. | The following online topic is single-sourced in Markdown and included in two different IBM watsonx.ai doc sets:<br/> - Software as a Service docs: [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"}<br/> - On premises docs: [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
+| Give users more than one way to digest information. | In this topic, which is sourced in Markdown, the same information is covered both in the table and in the paragraphs that follow the table: [IBM watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} |
 
 ## Developer help
@@ -47,7 +47,7 @@ These Spring Expression Language (SpEL) descriptions and examples help chatbot b
 
 ### API reference
 
-I created this API reference from a JSON file that conforms to the OpenAPI specification:
+I created the following API reference from a JSON file that conforms to the OpenAPI specification:
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
