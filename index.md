@@ -27,7 +27,7 @@ Note: The examples are shared as point-in-time PDFs rather than links to online 
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust AI model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple RAG pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
+| Incorporate images in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust AI model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple retrieval-augmented generation (RAG) pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
@@ -54,6 +54,8 @@ I added supplemental guidance to the product documentatation to help developers 
 
 ## Administrator help
 
-The following content helps administrators install and manage on-premises deployments of the IBM Watson Discovery service. The content was written in DITA with Oxygen XML Author.
+Here are a few examples of information that is designed for administrators:
 
-- [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
+- Sourced in markdown, this topic gives users two different ways to consume the content. The same information is covered both in the table and in the paragraphs that follow the table: [Saas deployment of watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"}
+
+- This content was written in DITA with Oxygen XML Author:  [On-premises deployment of Watson Discovery: Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
