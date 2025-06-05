@@ -8,14 +8,14 @@ As a lead technical writer for IBM Data and AI and IBM Cloud software services, 
 
 Find samples of help content for software users with various roles and experience levels.
 
-| &nbsp; &nbsp; &nbsp; **[UI content](#user-interface-content)** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; **[User help](#user-help)** &nbsp; &nbsp; &nbsp; |  **[Developer help](#developer-help)**  &nbsp; |  **[Administrator help](#administrator-help)** |
+| **[UI content](#user-interface-content)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **[User help](#user-help)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  **[Developer help](#developer-help)**  &nbsp; |  **[Administrator help](#administrator-help)** |
 
 ## User interface content
 
 | UI content examples |
 |:----------------|
 | **Tooltips** <br/> Keep helpful information in reach whenever possible.<br/> ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/> |
-| **Learn more links** <br/> Implement a progressive disclosure model that lets users control when they get more information. (The *Learn more* link shown in this screenshot opens the example topic that is listed in the first row of the [user help](#user-help) table.) <br/> ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/> |
+| **Learn more links** <br/> Implement a progressive disclosure model that lets users control when they get more information. (The *Learn more* link shown in this screenshot opens the example topic that is listed in the first row of the [User help](#user-help) table.) <br/> ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/> |
 | **UI walkthroughs** <br/> Build walkthroughs that help users to get familiar with new tools. <br/> ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/> |
 | **Collaboration in Figma** <br/> Team with UI designers to craft UI language that supports the task workflow. <br/> ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/> |
 
