@@ -18,9 +18,9 @@ Find samples of help content for software users with various roles and experienc
 | UI content type | Examples |
 |:----------------|----------|
 | Tooltips | ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/>Keep helpful information in reach whenever possible. |
-| *Learn more* links | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/>Implement a progressive disclosure model that lets users control when they get more information. |
+| *Learn more* links | ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/>Implement a progressive disclosure model that lets users control when they get more information. In this case, *Learn more* goes to the [Foundation model parameters: decoding and stopping criteria](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} help topic. |
 | UI walkthroughs | ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/>Walkthroughs are a great way for users to get familiar with new tools. |
-| Collaboration in Figma | ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/>Work with UI designers to craft UI language that supports the task workflow. |
+| Collaboration in Figma | ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/>Team with UI designers to craft UI language that supports the task workflow. |
 {: caption="UI content examples" caption-side="bottom"}
 
 ## User help
@@ -31,7 +31,7 @@ Note: Most of the content is shared as PDFs rather than links to online help pag
 
 | Writing approach | Examples |
 |------------------|----------|
-| Incorporate images in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple RAG pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
+| Incorporate images in conceptual information to illustrate concepts and explain processes. | - Explain how to adjust AI model behavior: [Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"}<br/> - Help low-code users implement a simple RAG pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} |
 | Focus on user goals, not product features. | The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:<br/> [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf) & [After](https://michelle-miller.github.io/samples/contentmine-after.pdf) |
 | Describe and compare available options to help customers make good choices. | [Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"} |
 | Single-source user content when possible to save time and resources. | The following online topics are single-sourced in Markdown:<br/> - Software as a Service: [Supported foundation models](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-models.html){:target="_blank"}<br/> - On premises: [Supported foundation models](https://www.ibm.com/docs/SSLSRPV_latest/wsj/analyze-data/fm-models.html){:target="_blank"} |
