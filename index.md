@@ -8,22 +8,22 @@ As a lead technical writer for IBM Data and AI and IBM Cloud software services, 
 
 Find samples of help content for software users with various roles and experience levels.
 
-| &nbsp; &nbsp; **[UI content](#user-interface-content)** &nbsp; &nbsp; | &nbsp; &nbsp; **[User help](#user-help)** &nbsp; &nbsp; |  **[Developer help](#developer-help)**  &nbsp; |  **[Administrator help](#administrator-help)** |
+| &nbsp; &nbsp; &nbsp; **[UI content](#user-interface-content)** &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; **[User help](#user-help)** &nbsp; &nbsp; &nbsp; |  **[Developer help](#developer-help)**  &nbsp; |  **[Administrator help](#administrator-help)** |
 
 ## User interface content
 
 | UI content examples |
 |:----------------|
 | **Tooltips** <br/> Keep helpful information in reach whenever possible.<br/> ![Foundation model benchmark summary](https://michelle-miller.github.io/samples/ui-help-metrics-def.png)<br/> |
-| ***Learn more* links** <br/> Implement a progressive disclosure model that lets users control when they get more information. The *Learn more* link in this screenshot goes to the [Decoding and stopping criteria](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} help topic. <br/> ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/> |
-| **UI walkthroughs** <br/> Walkthroughs are a great way for users to get familiar with new tools. <br/> ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/> |
+| **Learn more links** <br/> Implement a progressive disclosure model that lets users control when they get more information. The *Learn more* link shown in this screenshot opens the [Decoding and stopping criteria](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} help topic. <br/> ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)<br/> |
+| **UI walkthroughs** <br/> Build walkthroughs that help users to get familiar with new tools. <br/> ![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/samples/agent-lab-add-tools.png) <br/> |
 | **Collaboration in Figma** <br/> Team with UI designers to craft UI language that supports the task workflow. <br/> ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)<br/> |
 
 ## User help
 
 The following table has links to content that was written by me and that illustrates various approaches for providing straight-forward, helpful information.
 
-Note: Most of the content is shared as PDFs rather than links to online help pages so that I can illustrate *my* work and distinguish it from work that other writers are contributing to the current online help content.
+Note: The examples are shared as point-in-time PDFs rather than links to online help pages that are now maintained by other writers.
 
 | Writing approach | Examples |
 |------------------|----------|
