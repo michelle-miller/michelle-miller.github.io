@@ -53,7 +53,7 @@ Create short videos to explain complex concepts.
 - Title: When and why to prompt tune a foundation model
 - Duration: 3 minutes
 
-<iframe width="60%" height="50%" src="https://video.ibm.com/embed/recorded/133282182" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe> 
+<iframe width="75%" height="75%" src="https://video.ibm.com/embed/recorded/133282182" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe> 
 
 [Start of page](https://michelle-miller.github.io/){: .amini}
 
