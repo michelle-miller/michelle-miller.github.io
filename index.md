@@ -90,4 +90,4 @@ I added supplemental guidance to the product documentatation to help developers 
 
 This content was written in DITA with Oxygen XML Author:  [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
 
-[UI content](#user-interface-content){: .btn}  [User help](#user-help){: .btn} 
+[UI content](#user-interface-content){: .btn}  [User help](#user-help){: .btn}  [Developer help](#developer-help){: .btn}  [Administrator help](#developer-help){: .btn} 
