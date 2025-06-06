@@ -52,7 +52,7 @@ Create short videos to explain complex concepts.
 
 <iframe width="480" height="270" src="https://video.ibm.com/embed/recorded/133282182" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe> 
 
-*[Start of page](#software-technical-documentation)*
+[Start of page](https://michelle-miller.github.io/){: .amini}
 
 ## User help
 
@@ -69,7 +69,7 @@ Note: The examples are shared as point-in-time PDFs rather than links to online 
 | Give users more than one way to digest information. | In this topic, which is sourced in Markdown, the same information is covered both in the table and in the paragraphs that follow the table: [IBM watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} |
 | Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. | I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.<br/>Try it out: [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} |
 
-*[Start of page](#software-technical-documentation)*
+[Start of page](https://michelle-miller.github.io/){: .amini}
 
 ## Developer help
 
