@@ -44,7 +44,9 @@ Build walkthroughs that help users to get familiar with new tools.
 
 ### Content design reviews
 
-Team with UI designers to craft UI language that supports the task workflow. <br/> ![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)
+Team with UI designers to craft UI language that supports the task workflow.
+
+![language suggestions made to the designer in Figma](https://michelle-miller.github.io/samples/agent-lab-desc.png)
 
 ### Videos
 
