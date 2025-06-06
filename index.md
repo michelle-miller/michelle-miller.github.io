@@ -1,4 +1,4 @@
-# Technical documentation
+# Software technical documentation
 
 As a lead technical writer for IBM Data and AI and IBM Cloud software services, I created content that helps customers complete goals such as these:
 
@@ -90,4 +90,4 @@ I added supplemental guidance to the product documentatation to help developers 
 
 This content was written in DITA with Oxygen XML Author:  [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
 
-[UI content](#user-interface-content){: .btn}  [User help](#user-help){: .btn}  [Developer help](#developer-help){: .btn}  [Administrator help](#developer-help){: .btn} 
+[UI content](#user-interface-content){: .btn} [User help](#user-help){: .btn} [Developer help](#developer-help){: .btnwide} [Administrator help](#developer-help){: .btnwide} 
