@@ -8,7 +8,7 @@ As a lead technical writer for IBM Data and AI and IBM Cloud software services, 
 
 Find samples of help content for software users with various roles and experience levels.
 
-| **[UI content](#user-interface-content)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **[User help](#user-help)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  **[Developer help](#developer-help)**  &nbsp; |  **[Administrator help](#administrator-help)** |
+[UI content](#user-interface-content){: .btn} [User help](#user-help){: .btn} [Developer help](#developer-help){: .btnwide} [Administrator help](#developer-help){: .btnwide} 
 
 ## User interface content
 
@@ -89,5 +89,3 @@ I added supplemental guidance to the product documentatation to help developers 
 ## Administrator help
 
 This content was written in DITA with Oxygen XML Author:  [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
-
-[UI content](#user-interface-content){: .btn} [User help](#user-help){: .btn} [Developer help](#developer-help){: .btnwide} [Administrator help](#developer-help){: .btnwide} 
