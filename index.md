@@ -63,7 +63,7 @@ Create short videos to explain complex concepts.
 
 The following table has links to content that was written by me and that illustrates various approaches for providing straight-forward, helpful information.
 
-Note: The examples are shared as point-in-time PDFs rather than links to online help pages that are now maintained by other writers.
+Note: Most of the examples are shared as point-in-time PDFs rather than links to online help pages that are now maintained by other writers.
 
 | Writing approach | Examples |
 |------------------|----------|
