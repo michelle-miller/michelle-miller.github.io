@@ -30,9 +30,11 @@ Keep helpful information in reach whenever possible.
 
 ### Learn more links
 
-Implement a progressive disclosure model that lets users control when they get more information. (The *Learn more* link shown in this screenshot opens the example topic that is listed in the first row of the [User help](#user-help) table.) 
+Implement a progressive disclosure model that lets users control when they get more information. 
 
 ![Learn more link from the model parameters pane](https://michelle-miller.github.io/samples/progressive-disclosure-model-params.png)
+
+The *Learn more* link shown in this screenshot opens the example topic that is listed in the first row of the [User help](#user-help) table.
  
 ### UI walkthroughs
 
