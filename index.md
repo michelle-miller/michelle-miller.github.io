@@ -90,10 +90,8 @@ I created the following API reference from a JSON file that conforms to the Open
 
 I added supplemental guidance to the product documentatation to help developers use the API effectively, such as [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}.
 
-*[Start of page](#software-technical-documentation)*
-
 ## Administrator help
 
 This content was written in DITA with Oxygen XML Author:  [Installing the IBM Watson Discovery service in IBM Cloud Pak for Data](https://michelle-miller.github.io/samples/CP-Data-4.7.x-Admin-Disco.pdf){:target="_blank"}
 
-[Start of page](#index){: .amini}
+[Start of page](https://michelle-miller.github.io/){: .amini}
