@@ -50,6 +50,9 @@ Team with UI designers to craft UI language that supports the task workflow. <br
 
 Create short videos to explain complex concepts.
 
+- Title: When and why to tune a large language model
+- Duration: 3 minutes
+
 <iframe width="480" height="270" src="https://video.ibm.com/embed/recorded/133282182" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe> 
 
 [Start of page](https://michelle-miller.github.io/){: .amini}
