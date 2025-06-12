@@ -1,4 +1,4 @@
-# Technical documentation
+# Writing samples
 
 As a lead technical writer for IBM Data and AI and IBM Cloud software services, I created content that helps customers complete goals, such as:
 
