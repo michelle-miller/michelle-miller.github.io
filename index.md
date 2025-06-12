@@ -12,7 +12,7 @@ Find samples of help content for software users with various roles and experienc
 
 | | |
 |-|-|
-| [**UI content**](#user-interface-content)<br/> [![Image of a dummy software user interface page with inline UI help content](images/ui-content.png)](#user-interface-content) | [**User help**](#user-help)<br/> [![Image of a dummy user help window that is displayed in front of a software user interface page.](images/user-help.png)](#user-help)|
+| [**UI content**](#user-interface-content){: .atd}<br/> [![Image of a dummy software user interface page with inline UI help content](images/ui-content.png)](#user-interface-content) | [**User help**](#user-help)<br/> [![Image of a dummy user help window that is displayed in front of a software user interface page.](images/user-help.png)](#user-help)|
 | [**Developer help**](#developer-help)<br/> [![Image of a dummy Python notebook](images/dev-help.png)](#developer-help) | [**Administrator help**](#administrator-help)<br/> [![Image of a dummy system administrator's dashboard](images/admin-help.png)](#administrator-help) |
 {: .tableimg}
 
