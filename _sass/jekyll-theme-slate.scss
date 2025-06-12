@@ -438,7 +438,7 @@ Full-Width Styles
   float: right;
   text-indent: -5000px;
   overflow: hidden;
-  background: url(../images/user-icon.png) no-repeat bottom right;
+  background: url(../images/user-icon.png) no-repeat bottom left;
 }
 
 .zip_download_link:hover {
@@ -450,7 +450,7 @@ Full-Width Styles
 }
 
 .contact_link:hover {
-  background: url(../images/user-icon.png) no-repeat top right;
+  background: url(../images/user-icon.png) no-repeat top left;
 }
 
 #main_content_wrap {
