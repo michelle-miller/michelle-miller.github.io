@@ -10,6 +10,11 @@ Find samples of help content for software users with various roles and experienc
 
 [UI content](#user-interface-content){: .btn} [User help](#user-help){: .btn} [Developer help](#developer-help){: .btnwide} [Administrator help](#developer-help){: .btnwide} 
 
+| | |
+|-|-|
+| UI content [![Image of a dummy software user interface page with inline UI help content](images/ui-content.png)](#user-interface-content) | User help [![Image of a dummy user help window that is displayed in front of a software user interface page.](images/user-help.png)](#user-help)|
+| Developer help [![Image of a dummy Python notebook](images/dev-help.png)](#developer-help) | Administrator help [![Image of a dummy system administrator's dashboard](images/admin-help.png)](#developer-help) |
+
 ## User interface content
 
 The key to effective UI content is to anticipate user needs and add useful information in simple language as close to the user's current task as possible. 
