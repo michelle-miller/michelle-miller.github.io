@@ -194,6 +194,15 @@ p img {
   border: none;
 }
 
+td img {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  text-align: center;
+  border: none;
+}
+
 pre, code {
   color: #222;
   background-color: #fff;
