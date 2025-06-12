@@ -10,8 +10,6 @@ Find samples of help content for software users with various roles and experienc
 
 <!-- [UI content](#user-interface-content){: .btn} [User help](#user-help){: .btn} [Developer help](#developer-help){: .btnwide} [Administrator help](#administrator-help){: .btnwide} -->
 
-[UI content](#user-interface-content) : [User help](#user-help) : [Developer help](#developer-help) : [Administrator help](#administrator-help)
-
 | | |
 |-|-|
 |  [![UI content: Image of a dummy software user interface page with inline UI help content](images/ui-content.png)](#user-interface-content) | [![User help: Image of a dummy user help window that is displayed in front of a software user interface page.](images/user-help.png)](#user-help)|
