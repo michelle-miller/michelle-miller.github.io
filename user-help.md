@@ -5,7 +5,7 @@ This page has links to content that was written by me and that illustrates vario
 The approaches include:
 
 - [Show, don't tell](#show-dont-tell)
-- [Focus on user goals](#focus-on-user-goals-not product-features)
+- [Focus on user goals](#focus-on-user-goals-not-product-features)
 - [Give decision-point advice](#give-decision-point-advice)
 - [Write it once](#write-it-once)
 - [Target diverse learning methods](#target-diverse-learning-methods)
@@ -26,13 +26,13 @@ Incorporate images and diagrams in conceptual information to illustrate concepts
 
 The following table shows two samples of content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:
 
-<table>
+<table style="width:50%">
 <tr>
 <th></th><th></th>
 </tr>
 <tr>
-<td><xref href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</xref></td>
-<td><xref href="https://michelle-miller.github.io/samples/contentmine-after.pdf" target="_blank">After</xref></td>
+<td><a href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</a></td>
+<td><a href="https://michelle-miller.github.io/samples/contentmine-after.pdf" target="_blank">After</a></td>
 </tr>
 </table>
 
