@@ -28,7 +28,7 @@ The following two samples show content for a tool called Content Miner in IBM Wa
 
 |||
 |-|-|
-| [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf){:target="_blank"} | [After](https://michelle-miller.github.io/samples/contentmine-after.pdf){:target="_blank"} |
+| [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf){:target="_blank"} | [ After ](https://michelle-miller.github.io/samples/contentmine-after.pdf){:target="_blank"} |
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
@@ -46,8 +46,8 @@ The following online topic is single-sourced in Markdown and included in two dif
  
 | | |
 |-|-|
-| SaaS docs: [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} | 
- On-premises docs: [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
+| Software-as-a-service docs | [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
+| On-premises docs| [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
 
 ## Target diverse learning methods
 
