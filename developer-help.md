@@ -12,12 +12,6 @@ I added some guidance to the product help that augments the API reference inform
 
   ![Diagram that shows how the reranker API compares query text to each search result passage](images/reranker-api.png)
 
-## Watson Assistant developer content
-
-These Spring Expression Language (SpEL) descriptions and examples help chatbot builders implement more advanced logic in their IBM Watson Assistant dialog flows:
-
-- [Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
-
 [Start of page](https://michelle-miller.github.io/developer-help.html){: .amini}
 
 ## Watson Discovery API reference
@@ -26,12 +20,21 @@ I created the following API reference from a JSON file that conforms to the Open
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-  ![Screenshot of the Discovery API reference that shows the query options which are described in the diagram shown later](images/disco-rest-api,png)
+  ![Screenshot of the Discovery API reference that shows the query options which are described in the diagram shown later](images/disco-rest-api.png)
 
 I also added supplemental guidance to the product documentatation to help developers use the API effectively:
 
 - [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}
 
   ![Diagram that shows the features available based on the type of query you submit](images/disco-query-api.png)
+
+[Start of page](https://michelle-miller.github.io/developer-help.html){: .amini}
+
+## Watson Assistant developer content
+
+These Spring Expression Language (SpEL) descriptions and examples help chatbot builders implement more advanced logic in their IBM Watson Assistant dialog flows:
+
+- [Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
+
 
 [<- Back to home page](https://michelle-miller.github.io){: .amini}
