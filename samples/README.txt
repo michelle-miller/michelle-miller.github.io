@@ -1,0 +1,1 @@
+The documents in this directory are saved copies of content that was originally published on public websites that are owned and maintained by IBM. The content is copyrighted by IBM and cannot be used elsewhere without prior authorization by IBM.
