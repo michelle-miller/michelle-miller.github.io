@@ -22,7 +22,7 @@ I created the following API reference from a JSON file that conforms to the Open
 
   ![Screenshot of the Discovery API reference that shows the query options which are described in the diagram shown later](images/disco-rest-api.png)
 
-I also added supplemental guidance to the product documentatation to help developers use the API effectively:
+Different processing steps are available depending on the query method you use. I added supplemental guidance to the product documentatation to help developers understand their options and make the right choice.
 
 - [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}
 

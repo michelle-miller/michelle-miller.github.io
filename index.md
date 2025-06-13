@@ -14,6 +14,14 @@ Find samples of help content for software users with various roles and experienc
 | [![Developer help: Image of a dummy REST API reference page](images/dev-help.png)](developer-help.html) | [![Administrator help: Image of a dummy system administrator's dashboard with tooltip help](images/admin-help.png)](administrator-help.html) |
 {: .tableimg}
 
-*These images were created with the Google Gemini AI image generator.*
+Note: These images were created with the Google Gemini AI image generator.
+
+## Links to samples
+
+- [UI content](ui-content.html)
+- [User help](user-help.html)
+- [Developer help](developer-help.html)
+- [Administrator help](administrator-help.html)
+
 
 [Start of page](https://michelle-miller.github.io/){: .amini}
