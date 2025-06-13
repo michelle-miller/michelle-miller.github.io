@@ -4,14 +4,16 @@ This page has links to content that was written by me and that illustrates vario
 
 The approaches include:
 
-- Show, don't tell
-- Focus on user goals
-- Give decision-point advice
-- Write it once
-- Target diverse learning methods
-- Befriend AI
+- [Show, don't tell](#show-dont-tell)
+- [Focus on user goals](#focus-on-user-goals-not product-features)
+- [Give decision-point advice](#give-decision-point-advice)
+- [Write it once](#write-it-once)
+- [Target diverse learning methods](#target-diverse-learning-methods)
+- [Befriend AI](#befriend-ai)
 
 Note: Most of the following examples are shared as point-in-time PDFs rather than links to online help pages that are now maintained by other writers.
+
+[<- Back to home page](https://michelle-miller.github.io){: .amini}
 
 ## Show, don't tell
 
@@ -27,6 +29,8 @@ The following two samples show content for a tool called Content Miner in IBM Wa
 |||
 |-|-|
 | [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf){:target="_blank"} | [After](https://michelle-miller.github.io/samples/contentmine-after.pdf){:target="_blank"} |
+
+[Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
 ## Give decision-point advice
 
