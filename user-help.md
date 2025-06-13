@@ -28,7 +28,7 @@ The following table shows two samples of content for a tool called Content Miner
 
 <table style="width:70%">
 <tr>
-<th style="height: 50px"></th><th></th>
+<th style="height: 30px"></th><th></th>
 </tr>
 <tr>
 <td><a href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</a></td>
@@ -42,7 +42,9 @@ The following table shows two samples of content for a tool called Content Miner
 
 Describe and compare available options to help customers make good choices.
 
-- [IBM watsonx.ai: Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"}
+![Cropped view of the foundation model tuning comparison table from the linked-to topic](images/tuning-comparison.png)
+
+See [IBM watsonx.ai: Methods for tuning foundation models](https://michelle-miller.github.io/samples/wx-tuning.pdf){:target="_blank"}.
 
 ## Write it once
 
@@ -54,6 +56,8 @@ The following online topic is single-sourced in Markdown and included in two dif
 |-|-|
 | Software-as-a-service docs | [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
 | On-premises docs| [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
+
+[Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
 ## Target diverse learning methods
 
