@@ -20,7 +20,7 @@ Note: Most of the following examples are shared as point-in-time PDFs rather tha
 Incorporate images and diagrams in conceptual information to illustrate concepts and explain processes.
 
 | | |
-|-|-|
+|:-|-|
 | Explain how to adjust AI model behavior: [IBM watsonx.ai: Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} | ![Graphs that help to explain LLM temperature parameter](images/temps.png) |
 | Help low-code users implement a simple retrieval-augmented generation (RAG) pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} | ![A cute puppy image being evaluated as safe by an LLM](images/coco.png) |
 
