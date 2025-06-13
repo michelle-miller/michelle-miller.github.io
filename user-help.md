@@ -19,6 +19,8 @@ Note: Most of the following examples are shared as point-in-time PDFs rather tha
 
 Incorporate images and diagrams in conceptual information to illustrate concepts and explain processes.
 
+| | |
+|-|-|
 | Explain how to adjust AI model behavior: [IBM watsonx.ai: Parameters for prompting foundation models](https://michelle-miller.github.io/samples/wx-llm-parameters-sample.pdf){:target="_blank"} | ![Graphs that help to explain LLM temperature parameter](images/temps.png) |
 | Help low-code users implement a simple retrieval-augmented generation (RAG) pattern: [IBM watsonx.ai: Chatting about documents and images](https://michelle-miller.github.io/samples/wx-chatting-sample.pdf){:target="_blank"} | ![A cute puppy image being evaluated as safe by an LLM](images/coco.png) |
 
@@ -28,13 +30,20 @@ The following table shows two samples of content for a tool called Content Miner
 
 <table style="width:70%">
 <tr>
-<th style="height: 30px"></th><th></th>
+<th style="height: 25px"></th><th></th>
 </tr>
 <tr>
 <td><a href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</a></td>
 <td><a href="https://michelle-miller.github.io/samples/contentmine-after.pdf" target="_blank">After</a></td>
 </tr>
 </table>
+
+Here's a summary of my changes:
+
+- Focused on user tasks and described options as they become relevant to the task rather than explaining the available modes and views out of context.
+- Removed lists of UI options and descriptions. Relied instead on tooltips and inline help with links to more information in the help content.
+- Added information that was previously missing about a key product differentiator, which is custom facets that you can create and then use to analyze your data.
+
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
@@ -57,6 +66,12 @@ The following online topic is single-sourced in Markdown and included in two dif
 | Software-as-a-service docs | [When to tune a model](https://www.ibm.com/docs/SSYOK8/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
 | On-premises docs| [When to tune a model](https://www.ibm.com/docs/SSLSRPV_2.1.x/wsj/analyze-data/fm-tuning-when.html){:target="_blank"} |
 
+A few benefits of chunking and single-sourcing your content include:
+
+- When content lives in one file rather than multiple files, it's easier to keep the information accurate and up-to-date.
+- Search mechanisms, including LLM-driven apps, can more easily find and return the right content when it is restricted to one file.
+- Single-sourcing doesn't prevent you from tailoring the content for different use cases. For example, you can use filtering to include or omit content for different outputs. In these examples topics, you might notice that different tuning methods are supported in the SaaS versus on-premises deployments.
+
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
 ## Target diverse learning methods
@@ -69,7 +84,7 @@ In this topic, the same information is covered both in the table and in the para
 
 Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. 
 
-I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.
+I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve the retrievability and succinctness of the help content.
 
 ### Try it out
 
