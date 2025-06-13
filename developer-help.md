@@ -1,6 +1,8 @@
 # Developer help
 
-I created the following guidance to augment the IBM watsonx.ai API reference documentation:
+IBM watsonx.ai provides REST API reference documentation that describes the endpoints and supported methods and parameters for working with service features. However, reference documentation that follows the OpenAPI specification doesn't always allow room for deeper explanation. 
+
+I added some guidance to the product help that augments the API reference information. Here are a few of the topics I added which have graphics that help to explain how the methods work:
 
 - [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
 
@@ -10,20 +12,24 @@ I created the following guidance to augment the IBM watsonx.ai API reference doc
 
   ![Diagram that shows how the reranker API compares query text to each search result passage](images/reranker-api.png)
 
+## Watson Assistant developer content
+
 These Spring Expression Language (SpEL) descriptions and examples help chatbot builders implement more advanced logic in their IBM Watson Assistant dialog flows:
 
 - [Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
 
-[<- Back to home page](https://michelle-miller.github.io){: .amini}
+[Start of page](https://michelle-miller.github.io/developer-help.html){: .amini}
 
-## API reference
+## Watson Discovery API reference
 
 I created the following API reference from a JSON file that conforms to the OpenAPI specification:
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
-I added supplemental guidance to the product documentatation to help developers use the API effectively, such as:
+I also added supplemental guidance to the product documentatation to help developers use the API effectively:
 
 - [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}
 
-[Start of page](https://michelle-miller.github.io/developer-help.html){: .amini}
+  ![Diagram that shows the features available based on the type of query you submit](images/disco-query-api.png)
+
+[<- Back to home page](https://michelle-miller.github.io){: .amini}
