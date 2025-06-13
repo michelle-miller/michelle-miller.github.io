@@ -26,9 +26,9 @@ Incorporate images and diagrams in conceptual information to illustrate concepts
 
 The following table shows two samples of content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:
 
-<table style="width:50%">
+<table style="width:70%">
 <tr>
-<th></th><th></th>
+<th style="height: 50px"></th><th></th>
 </tr>
 <tr>
 <td><a href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</a></td>
