@@ -11,7 +11,7 @@ Find samples of help content for software users with various roles and experienc
 | | |
 |-|-|
 |  [![UI content: Image of a dummy software user interface page with inline UI help content](images/ui-content.png)](ui-content.html) | [![User help: Image of a dummy user help window that is displayed in front of a software user interface page.](images/user-help.png)](user-help.html)|
-| [![Developer help: Image of a dummy REST API reference page](images/dev-help.png)](developer-help.html) | [![Administrator help: Image of a dummy system administrator's dashboard with tooltip help](images/admin-help.png)](#administrator-help.html) |
+| [![Developer help: Image of a dummy REST API reference page](images/dev-help.png)](developer-help.html) | [![Administrator help: Image of a dummy system administrator's dashboard with tooltip help](images/admin-help.png)](administrator-help.html) |
 {: .tableimg}
 
 *These images were created with the Google Gemini AI image generator.*
