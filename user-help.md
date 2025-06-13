@@ -24,11 +24,17 @@ Incorporate images and diagrams in conceptual information to illustrate concepts
 
 ## Focus on user goals, not product features
 
-The following two samples show content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:
+The following table shows two samples of content for a tool called Content Miner in IBM Watson Discovery before and after I revised the information to be task-based:
 
-|||
-|-|-|
-| [Before](https://michelle-miller.github.io/samples/contentmine-before.pdf){:target="_blank"} | [ After ](https://michelle-miller.github.io/samples/contentmine-after.pdf){:target="_blank"} |
+<table>
+<tr>
+<th></th><th></th>
+</tr>
+<tr>
+<td><xref href="https://michelle-miller.github.io/samples/contentmine-before.pdf" target="_blank">Before</xref></td>
+<td><xref href="https://michelle-miller.github.io/samples/contentmine-after.pdf" target="_blank">After</xref></td>
+</tr>
+</table>
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
