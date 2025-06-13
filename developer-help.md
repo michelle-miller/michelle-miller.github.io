@@ -26,6 +26,8 @@ I created the following API reference from a JSON file that conforms to the Open
 
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
+  ![Screenshot of the Discovery API reference that shows the query options which are described in the diagram shown later](images/disco-rest-api,png)
+
 I also added supplemental guidance to the product documentatation to help developers use the API effectively:
 
 - [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}
