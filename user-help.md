@@ -69,6 +69,10 @@ In this topic, the same information is covered both in the table and in the para
 
 Write content that can be consumed by LLMs as part of a retrieval-augmented generation (RAG) pattern to return factual answers. 
 
-I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.<br/>**Try it out**: In the [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} field, add a question and then click the bee icon. 
+I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve how the help content performs.
+
+### Try it out
+
+In the [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} field, add a question and then click the bee icon. 
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}

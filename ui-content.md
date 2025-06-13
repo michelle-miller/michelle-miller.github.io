@@ -12,33 +12,33 @@ The following examples illustrate my ability to craft helpful UI content:
 
 [<- Back to home page](https://michelle-miller.github.io){: .amini}
 
-### Tooltips
+## Tooltips
 
 Keep helpful information in reach whenever possible.
 
-![Foundation model benchmark summary](https://michelle-miller.github.io/images/ui-help-metrics-def.png)
+![Foundation model benchmark summary](images/ui-help-metrics-def.png)
 
-### Learn more links
+## Learn more links
 
 Implement a progressive disclosure model that lets users control when they get more information. 
 
-![Learn more link from the model parameters pane](https://michelle-miller.github.io/images/progressive-disclosure-model-params.png)
+![Learn more link from the model parameters pane](images/progressive-disclosure-model-params.png)
 
 The *Learn more* link shown in this screenshot opens the first user help example that is listed in [Show, don't tell](user-help.html#show-dont-tell).
  
-### UI walkthroughs
+## UI walkthroughs
 
 Build walkthroughs that help users to get familiar with new tools.
 
-![Comments for the designer about a description for an Agent Lab screen](https://michelle-miller.github.io/images/agent-lab-add-tools.png)
+![Comments for the designer about a description for an Agent Lab screen](images/agent-lab-add-tools.png)
 
-### Content design reviews
+## Content design reviews
 
 Team with UI designers to craft UI language that supports the task workflow.
 
-![language suggestions made to the designer in Figma](https://michelle-miller.github.io/images/agent-lab-desc.png)
+![language suggestions made to the designer in Figma](images/agent-lab-desc.png)
 
-### Videos
+## Videos
 
 Create short videos to explain complex concepts.
 
