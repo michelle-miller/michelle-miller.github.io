@@ -10,6 +10,8 @@ The following examples illustrate my ability to craft helpful UI content:
 - [Content design reviews](#content-design-reviews)
 - [Videos](#videos)
 
+[<- Back to home page](https://michelle-miller.github.io){: .amini}
+
 ### Tooltips
 
 Keep helpful information in reach whenever possible.
@@ -22,7 +24,7 @@ Implement a progressive disclosure model that lets users control when they get m
 
 ![Learn more link from the model parameters pane](https://michelle-miller.github.io/images/progressive-disclosure-model-params.png)
 
-The *Learn more* link shown in this screenshot opens the example topic that is listed in the first row of the [User help](#user-help) table.
+The *Learn more* link shown in this screenshot opens the first user help example that is listed in [Show, don't tell](user-help.html#show-dont-tell).
  
 ### UI walkthroughs
 
