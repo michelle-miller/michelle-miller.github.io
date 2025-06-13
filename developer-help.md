@@ -9,6 +9,8 @@ These Spring Expression Language (SpEL) descriptions and examples help chatbot b
 
 - [Expression language methods](https://michelle-miller.github.io/samples/assistant-spel-sample.pdf){:target="_blank"}
 
+[<- Back to home page](https://michelle-miller.github.io){: .amini}
+
 ## API reference
 
 I created the following API reference from a JSON file that conforms to the OpenAPI specification:
@@ -16,6 +18,5 @@ I created the following API reference from a JSON file that conforms to the Open
 - [Discovery API reference](https://cloud.ibm.com/apidocs/discovery-data){:target="_blank"}
 
 I added supplemental guidance to the product documentatation to help developers use the API effectively, such as [IBM Watson Discovery: Query overview](https://michelle-miller.github.io/samples/discovery-data-query-api-sample.pdf){:target="_blank"}.
-
 
 [Start of page](https://michelle-miller.github.io/developer-help.html){: .amini}
