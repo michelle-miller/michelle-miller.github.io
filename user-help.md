@@ -53,7 +53,7 @@ The following online topic is single-sourced in Markdown and included in two dif
 
 Give users more than one way to digest information.
 
-In this topic, which is sourced in Markdown, the same information is covered both in the table and in the paragraphs that follow the table: [IBM watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} 
+In this topic, the same information is covered both in the table and in the paragraphs that follow the table: [IBM watsonx.ai: Security and privacy for foundation models](https://michelle-miller.github.io/samples/wx-security.html){:target="_blank"} 
 
 ## Befriend AI
 
