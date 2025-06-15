@@ -16,7 +16,7 @@ Prompt for foundation model input (text and parameters)	| Yes | No | - IBM does 
 | Tuned foundation model | Yes | No | - Your tuned model is saved as a model asset and is stored in a dedicated, secure storage bucket. <br/> - Your tuned foundation model is not accessible or used by IBM or any other person or organization. <br/> - IBM does not use your tuning experiment work to improve IBM models. |
 | Tuning experiment | Yes | No | - Your tuning experiment is saved as an experiment asset and is stored in a dedicated, secure storage bucket. |
 | Training data for tuning | Yes | No | - The training data that you use for training is saved as a data asset and is stored in a dedicated, secure storage bucket. |
-{: .tableimg,.tdimg}
+{: .tableimg .tdimg}
 
 ## Foundation model privacy and security
 
