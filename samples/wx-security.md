@@ -7,7 +7,7 @@ Your work with foundation models is secure and private, in the same way that all
 The following table summarizes the privacy and security of your foundation model work in watsonx.
 
 | Item | Accessible by you | Accessible by IBM or anyone else | Privacy and security details |
-|------|-------------------|----------------------------------|------------------------------|
+|------|-------------------|----------------------------------|:-----------------------------|
 Prompt for foundation model input (text and parameters)	| Yes | No | - IBM does not use your work to improve IBM models.<br/> - Text that you add to or submit in the Prompt Lab or API is not stored unless you save it. <br/> - IBM does not monitor or log foundation model input. <br/> - If watsonx.governance is provisioned, you can optionally monitor foundation model input. |
 | Prompt in transit | Not applicable | No | - Prompt remains encrypted while in transit. <br/> - The foundation models are hosted in IBM Cloud; your prompts are not sent to third-party platforms. |
 | Foundation model output | Yes | No | - IBM does not monitor or log foundation model output. <br/> - Foundation model output is not stored unless you save the prompt that elicited the output as a prompt session asset. <br/> - IBM does not claim ownership rights to foundation model outputs. <br/> - IBM does not use your model outputs to improve IBM models. <br/> - If watsonx.governance is provisioned, you can optionally monitor foundation model output. |
