@@ -297,7 +297,7 @@ table {
  }
 
 .tableimg {
-  border: 1px solid #373737;
+  border: hidden;
 }
 
 th {
@@ -494,7 +494,7 @@ Small Device Styles
   }
 
   .tableimg, th {
-    width: 70%;
+    width: 60%;
   }
 
   #project_title {
