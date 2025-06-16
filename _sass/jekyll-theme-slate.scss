@@ -493,8 +493,9 @@ Small Device Styles
     max-width: 480px;
   }
 
-  .tableimg th, td {
+  .tableimg {
     width: 70%;
+    margin: 0 auto;
   }
 
   #project_title {
