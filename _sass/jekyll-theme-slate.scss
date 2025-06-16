@@ -298,7 +298,7 @@ table {
 
 .tableimg {
   border: hidden;
-  margin: 0 auto;
+  margin-right: 5px;
   text-align: left;
 }
 
@@ -529,7 +529,7 @@ Small Device Styles
 
 }
 
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 320px) {
   body {
     font-size:14px;
   }
