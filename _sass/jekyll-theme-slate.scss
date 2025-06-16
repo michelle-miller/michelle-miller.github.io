@@ -209,7 +209,7 @@ p img {
 
 td img {
   display: inline;
-  margin: 10px;
+  margin: 0;
   padding: 0;
   vertical-align: top;
   text-align: left;
@@ -495,7 +495,6 @@ Small Device Styles
 
   .tableimg {
     width: 70%;
-    padding-right: 5px;
     margin: 0 auto;
   }
 
