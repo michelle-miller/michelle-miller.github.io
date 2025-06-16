@@ -1,8 +1,8 @@
 # Developer help
 
-IBM watsonx.ai provides REST API reference documentation that describes the endpoints and supported methods and parameters for working with service features. However, reference documentation that follows the OpenAPI specification doesn't always allow room for deeper explanation. 
+IBM watsonx.ai provides REST API reference documentation that conforms to the OpenAPI specification, which doesn't allow for comparisons or deeper explanations.
 
-I added some guidance to the product help that augments the API reference information. Here are a few of the topics I added which have graphics that help to explain how the methods work:
+I added guidance to the product help that augments the API reference information. Here are a few of the topics I added which have graphics that help to explain how the methods work:
 
 - [Time series forecasting](https://michelle-miller.github.io/samples/wx-time-series-api-sample.pdf){:target="_blank"}
 
