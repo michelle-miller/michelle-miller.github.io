@@ -2,7 +2,7 @@
 
 Your work with foundation models is secure and private, in the same way that all your work on watsonx is secure and private. IBM cannot access your prompts or tuned models.
 
-[<- Back](https://michelle-miller.github.io/user-help.html){: .amini}
+[<- Back](https://michelle-miller.github.io/user-help.html#target-diverse-learning-methods){: .amini}
 
 The following table summarizes the privacy and security of your foundation model work in watsonx.
 
