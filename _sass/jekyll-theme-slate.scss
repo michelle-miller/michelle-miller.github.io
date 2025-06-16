@@ -297,6 +297,7 @@ table {
  }
 
 .tableimg {
+  width: 90%;
   border: hidden;
   margin-right: 5px;
   text-align: left;
@@ -493,7 +494,7 @@ Small Device Styles
 
   .inner {
     min-width: 320px;
-    max-width: 460px;
+    max-width: 480px;
   }
 
   #project_title {
