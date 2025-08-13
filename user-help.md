@@ -86,10 +86,5 @@ Write content that can be consumed by LLMs as part of a retrieval-augmented gene
 
 I optimized the documentation for retrieval by the IBM watsonx.ai LLM-based search app and regularly reviewed search results and user feedback to improve the retrievability and succinctness of the help content.
 
-### Try it out
-
-In the [Find information](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=wx){:target="_blank"} field, add a question and then click the bee icon.
-
-![Screenshot of the LLM app search field on the IBM watsonx.ai documentation site](images/LLM-help.png)
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
