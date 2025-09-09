@@ -70,7 +70,7 @@ A few benefits of chunking and single-sourcing your content include:
 
 - When content lives in one file rather than multiple files, it's easier to keep the information accurate and up-to-date.
 - Search mechanisms, including LLM-driven apps, can more easily find and return the right content when it is restricted to one file.
-- Single-sourcing doesn't prevent you from tailoring the content for different use cases. For example, you can use filtering to include or omit content for different outputs. In these examples topics, you might notice that different tuning methods are supported in the SaaS versus on-premises deployments.
+- You can continue to provide customized content for specific use cases even when the source is shared. To do so, use filtering to include or omit content for different outputs. In the *When to tune a model* topics, for example, different tuning methods are described for the SaaS versus on-premises deployments by using tags in the source file that control which content to include or filter out at build time.
 
 [Start of page](https://michelle-miller.github.io/user-help.html){: .amini}
 
