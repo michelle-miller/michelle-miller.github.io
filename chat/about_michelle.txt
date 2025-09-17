@@ -1,0 +1,12 @@
+Michelle Miller is a software technical writer with over 20 years of experience in creating content that helps developers incorporate cloud services into their applications.
+
+Michelle worked on documentation for the following products:
+
+- IBM watsonx.ai 
+- IBM Watson Assistant
+- IBM Watson Discovery
+- IBM Watson Knowledge Studio
+- IBM Watson Discovery Advisor
+- IBM Watson Engagement Advisor
+- IBM Connections
+- IBM Lotus Domino Designer
