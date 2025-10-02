@@ -1,0 +1,24 @@
+# llms.txt for Michelle Miller's portfolio website
+
+# Website Overview
+Michelle Miller's portfolio website summarizes the strengths and skills of Michelle as a software technical writer. The site discusses technical writing best practices for different audience types, and provides links to documentation samples written by Michelle.
+
+# AI Usage Directives
+User-agent: *
+AI-Training: Allow
+AI-Generation: Allow
+AI-Summarization: Allow
+AI-Crawling: Allow
+
+# Sitemaps for AI Indexing
+Sitemap: https://michelle-miller.github.io/sitemap.xml
+
+# Reference Content for AI Indexing
+Reference-Content:
+- https://michelle-miller.github.io/
+
+# Portfolio structure
+- [UI content](https://michelle-miller.github.io/ui-content.html)
+- [User help](https://michelle-miller.github.io/user-help.html)
+- [Developer help](https://michelle-miller.github.io/developer-help.html)
+- [Administrator help](https://michelle-miller.github.io/adminitrator-help.html)
