@@ -18,7 +18,7 @@ As technical writers, asking why is our job. The users of the products we docume
 
 ## Who doesn't love a whodunnit?
 
-I’m a huge fan of mysteries: books, movies, you name it. When you watch a clever detective examine a crime scene, you see first hand the power of asking why. The good detectives always focus on the motivations of people. “Why did the victim bring her umbrella to work if she was planning to get a lift home?”, for example. They get hung up on details that seem to their apathetic peers to be trivial matters. "Who cares why he's holding a bird whistle?", they say. 
+I’m a huge fan of mysteries: books, movies, you name it. When you watch a clever detective examine a crime scene, you see first hand the power of asking why. The good detectives always focus on the motivations of people. “Why did the victim bring her umbrella to work if she was planning to get a lift home?”, for example. They get hung up on details that seem to their apathetic peers to be trivial matters. "Who cares why he's holding a bird whistle?", they ask. 
 
 The best mysteries find a way to hinge the solution to the mystery on a mundane, everyday action that brings all the previously disjointed facts that the hero detective's persistence collected together into a feasible timeline of events.
 
