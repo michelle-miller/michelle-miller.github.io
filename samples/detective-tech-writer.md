@@ -6,7 +6,7 @@
 
 Many, many years ago, my mother provided daycare a few days a week for my nephew, Michael. Michael–who is now an adult and unsurprisingly an engineer–used to constantly ask her about how things worked. “Why is there frost on the grass this morning?”, for example. My mother would answer, and Michael would inevitably respond with a series of follow-up “why” questions. 
 
-My mother's tack was to answer each successive inquiry until she ran out of answers, and then say, “Why has a long tale”. Now, lovers of language might appreciate this response for its cleverness as a pun, meaning both that it would take too long to answer and that the letter “y”, when written, has a long tale. But it bewildered and understandably frustrated my 9-year old nephew. 
+My mother's tack was to answer each successive inquiry until she ran out of answers, and then say, “Why has a long tale”. Now, lovers of language might appreciate this response for its cleverness as a pun, meaning both that it would take too long to answer and that the letter “y”, when written, has a long tail. But it bewildered and understandably frustrated my 9-year old nephew. 
 
 In my mother’s defense, she may not have known all the answers. And we didn’t have Google back then. If the answer wasn’t in our Encyclopedia Britannica book set published 10 years earlier, it would have to remain a mystery.
 
