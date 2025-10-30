@@ -23,5 +23,8 @@ Note: These images were created with the Google Gemini AI image generator.
 - [Developer help](developer-help.html)
 - [Administrator help](administrator-help.html)
 
+## Just for fun
+
+- [The gumshoe technical writer](samples/detective-tech-writer.html)
 
 [Start of page](https://michelle-miller.github.io/){: .amini}
