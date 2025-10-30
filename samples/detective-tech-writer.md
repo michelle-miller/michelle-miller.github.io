@@ -1,4 +1,4 @@
-# What do technical writers and detectives have in common?
+# The gumshoe technical writer
 
 ![Image of a detective holding a magnifying glass over the word Why](../images/Gemini_Generated_Image_detective.png)
 
@@ -22,6 +22,6 @@ I’m a huge fan of mysteries: books, movies, you name it. When you watch a clev
 
 Similarly, as technical writers, we can’t know the right questions to ask unless we focus on the motivations and mundane everyday actions of our users. What task is the user trying to accomplish? Why would they use this new flashy feature instead of that other, similar feature that was released six months ago to an equal amount of fanfare at the time? What circumstances make it best to use one versus the other to get a task done?
 
-## My entreaty to technical writers everywhere
+## My challenge to technical writers everywhere
 
 Conjure your inner Miss Marple to understand the motivations of your users. Then, pepper your developers with questions that fill any gaps between the user’s goal and the product’s function. Weaponize the word *why* like lives are at stake. Because, although it’s not lives exactly, the composure, success, and thus trust of your users actually is.
