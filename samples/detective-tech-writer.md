@@ -10,7 +10,7 @@ My mother's tack was to answer each successive inquiry until she ran out of answ
 
 In my mother’s defense, she may not have known the answers. And we didn’t have Google back then. If the answer wasn’t in our Encyclopedia Brittanica book set published 10 years earlier, it would have to remain a mystery.
 
-But I learned a lot from my nephew’s questions. And more than any single answer, the thing I gained most was an appreciation for the power of the word, “why”.
+I learned a lot from my nephew’s questions. More than any single answer, the thing I gained most was an appreciation for the power of the word, “why”. After all, my mother was not an easy woman to stump.
 
 ## The role of *why* in technical writing
 
