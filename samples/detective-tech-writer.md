@@ -8,7 +8,7 @@ Many, many years ago, my mother provided daycare a few days a week for my nephew
 
 My mother's tack was to answer each successive inquiry until she ran out of answers, and then say, “Why has a long tale”. Now, lovers of language might appreciate this response for its cleverness as a pun, meaning both that it would take too long to answer and that the letter “y”, when written, has a long tale. But it bewildered and understandably frustrated my nephew. 
 
-In my mother’s defense, she may not have known all the answers. And we didn’t have Google back then. If the answer wasn’t in our Encyclopedia Brittanica book set published 10 years earlier, it would have to remain a mystery.
+In my mother’s defense, she may not have known all the answers. And we didn’t have Google back then. If the answer wasn’t in our Encyclopedia Britannica book set published 10 years earlier, it would have to remain a mystery.
 
 I learned a lot from my nephew’s questions. More than any single answer, the thing I gained most was an appreciation for the power of the word, “why”. After all, my mother was not an easy woman to stump.
 
