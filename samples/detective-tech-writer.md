@@ -20,9 +20,9 @@ As technical writers, asking why is our job. The users of the products we docume
 
 I’m a huge fan of mysteries: books, movies, you name it. When you watch a clever detective examine a crime scene, you see first hand the power of asking why. The good detectives always focus on the motivations of people. “Why did the victim bring her umbrella to work if she was planning to get a lift home?”, for example. They get hung up on details that seem to their apathetic peers to be trivial matters. "Who cares why he's holding a bird whistle?", they ask. 
 
-The best mysteries find a way to hinge the solution to the mystery on a mundane, everyday action that brings all the previously disjointed facts that the hero detective's persistence collected together into a feasible timeline of events.
+The best mysteries find a way to hinge the solution to the mystery on a mundane, everyday action that brings all the previously disjointed facts–facts that the hero detective meticulously tracked down–together into a feasible timeline of events.
 
-Similarly, as technical writers, we can’t know the right questions to ask unless we focus on the motivations and mundane everyday actions of our users. What task is the user trying to accomplish? Why would they use this new flashy feature instead of that other, similar feature that was released six months ago to an equal amount of fanfare at the time? What circumstances make it best to use one versus the other to get a task done?
+Similarly, as technical writers, we can’t know the right questions to ask unless we focus on the motivations and mundane everyday actions of our users. What task is the user trying to accomplish? Why would they use this new flashy feature instead of that other, similar feature that was released six months ago to an equal amount of fanfare at the time? What circumstances make it best to use one versus the other to get a task done? We can't be deterred when our questions seem irrelevant to others.
 
 ## My challenge to tech writers everywhere
 
