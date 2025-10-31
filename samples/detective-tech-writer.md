@@ -22,7 +22,7 @@ I’m a huge fan of mysteries: books, movies, you name it. When you watch a clev
 
 The best mysteries find a way to hinge the solution to the mystery on a mundane, everyday action that brings all the previously disjointed facts–facts that the hero detective meticulously tracked down–together into a feasible timeline of events.
 
-Similarly, as technical writers, we can’t know the right questions to ask unless we focus on the motivations and mundane everyday actions of our users. What task is the user trying to accomplish? Why would they use this new flashy feature instead of that other, similar feature that was released six months ago to an equal amount of fanfare at the time? What circumstances make it best to use one versus the other to get a task done? We can't be deterred when our questions seem irrelevant to others.
+Similarly, as technical writers, we can’t know the right questions to ask unless we focus on the motivations and mundane everyday actions of our users. What task is the user trying to accomplish? Why would they use this new flashy feature instead of that other, similar feature that was released six months ago to an equal amount of fanfare at the time? What circumstances make it best to use one versus the other to get a task done? We need to push and prod and be undeterred when our questions seem irrelevant to others.
 
 ## My challenge to tech writers everywhere
 
