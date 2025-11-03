@@ -27,3 +27,5 @@ Similarly, as technical writers, we can’t know the right questions to ask unle
 ## My challenge to tech writers everywhere
 
 Conjure your inner Miss Marple to understand the motivations of your users. Then, pepper your developers with questions that fill any gaps between the user’s goal and the product’s function. Weaponize the word *why* like lives are at stake. Because, although it’s not lives exactly, the composure, success, and thus trust of your users certainly is.
+
+[<- Back to home page](https://michelle-miller.github.io){: .amini}
